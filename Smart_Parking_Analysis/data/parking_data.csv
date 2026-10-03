@@ -1,0 +1,575 @@
+Slot_ID,Area,Vehicle_Type,Entry_Date,Entry_Time,Exit_Time,Duration_Hours,Status,Parking_Fee
+G02,Ground Floor,Auto,2026-09-21,08:41,09:35,0.9,Completed,15
+B09,Basement,SUV,2026-09-21,08:57,10:09,1.2,Completed,60
+O13,Open Parking,Bike,2026-09-21,09:03,10:39,1.6,Completed,20
+F15,First Floor,Car,2026-09-21,09:32,13:22,3.83,Completed,80
+O10,Open Parking,Car,2026-09-21,09:44,11:26,1.7,Completed,40
+G03,Ground Floor,Car,2026-09-21,10:25,12:19,1.9,Completed,40
+O14,Open Parking,Auto,2026-09-21,10:44,11:35,0.85,Completed,15
+G02,Ground Floor,SUV,2026-09-21,11:06,16:01,4.92,Completed,150
+G06,Ground Floor,Car,2026-09-21,12:24,15:06,2.7,Completed,60
+F03,First Floor,SUV,2026-09-21,12:27,14:40,2.22,Completed,90
+G13,Ground Floor,Car,2026-09-21,12:35,14:24,1.82,Completed,40
+B11,Basement,Car,2026-09-21,13:00,19:57,6.95,Completed,140
+F13,First Floor,SUV,2026-09-21,13:18,16:33,3.25,Completed,120
+B05,Basement,Bike,2026-09-21,13:22,16:59,3.62,Completed,40
+F06,First Floor,Car,2026-09-21,13:36,18:02,4.43,Completed,100
+F11,First Floor,Auto,2026-09-21,13:52,14:47,0.92,Completed,15
+F02,First Floor,Bike,2026-09-21,13:59,18:35,4.6,Completed,50
+O09,Open Parking,Car,2026-09-21,14:30,16:45,2.25,Completed,60
+B15,Basement,SUV,2026-09-21,14:32,20:46,6.23,Completed,210
+F03,First Floor,Bike,2026-09-21,14:51,16:41,1.83,Completed,20
+B13,Basement,Bike,2026-09-21,14:56,16:26,1.5,Completed,20
+B07,Basement,Car,2026-09-21,14:58,19:09,4.18,Completed,100
+G07,Ground Floor,Car,2026-09-21,14:58,18:22,3.4,Completed,80
+G11,Ground Floor,Car,2026-09-21,14:59,20:01,5.03,Completed,120
+F07,First Floor,Car,2026-09-21,15:01,19:49,4.8,Completed,100
+F14,First Floor,Car,2026-09-21,15:18,16:48,1.5,Completed,40
+B09,Basement,SUV,2026-09-21,15:30,20:09,4.65,Completed,150
+O02,Open Parking,Bike,2026-09-21,15:48,23:24,7.6,Completed,80
+G14,Ground Floor,Car,2026-09-21,15:54,18:43,2.82,Completed,60
+G09,Ground Floor,Car,2026-09-21,16:01,21:11,5.17,Completed,120
+B06,Basement,SUV,2026-09-21,16:07,21:56,5.82,Completed,180
+B10,Basement,Car,2026-09-21,16:31,22:48,6.28,Completed,140
+G12,Ground Floor,Car,2026-09-21,16:35,23:30,6.92,Completed,140
+B03,Basement,Car,2026-09-21,16:41,17:44,1.05,Completed,40
+O07,Open Parking,Auto,2026-09-21,16:46,17:44,0.97,Completed,15
+F08,First Floor,Car,2026-09-21,16:49,23:30,6.68,Completed,140
+G03,Ground Floor,Car,2026-09-21,17:02,23:30,6.47,Completed,140
+G10,Ground Floor,Car,2026-09-21,17:13,20:25,3.2,Completed,80
+F13,First Floor,Auto,2026-09-21,17:19,18:41,1.37,Completed,30
+G05,Ground Floor,Bike,2026-09-21,17:27,20:39,3.2,Completed,40
+G01,Ground Floor,Car,2026-09-21,17:32,18:22,0.83,Completed,20
+O15,Open Parking,Car,2026-09-21,17:43,19:11,1.47,Completed,40
+O10,Open Parking,Auto,2026-09-21,17:45,18:56,1.18,Completed,30
+G02,Ground Floor,Bike,2026-09-21,17:46,23:30,5.73,Completed,60
+O05,Open Parking,Bike,2026-09-21,18:00,21:14,3.23,Completed,40
+G04,Ground Floor,Auto,2026-09-21,18:06,18:58,0.87,Completed,15
+G15,Ground Floor,Auto,2026-09-21,18:20,19:37,1.28,Completed,30
+O14,Open Parking,Bike,2026-09-21,18:23,23:30,5.12,Completed,60
+G08,Ground Floor,Car,2026-09-21,18:25,23:30,5.08,Completed,120
+G13,Ground Floor,Bike,2026-09-21,18:27,22:49,4.37,Completed,50
+G06,Ground Floor,Car,2026-09-21,18:31,22:28,3.95,Completed,80
+O07,Open Parking,Bike,2026-09-21,18:31,21:20,2.82,Completed,30
+G07,Ground Floor,Auto,2026-09-21,18:35,19:17,0.7,Completed,15
+B02,Basement,Car,2026-09-21,18:37,20:39,2.03,Completed,60
+B05,Basement,SUV,2026-09-21,18:56,22:21,3.42,Completed,120
+F05,First Floor,Car,2026-09-21,18:59,23:30,4.52,Completed,100
+F11,First Floor,Car,2026-09-21,19:06,22:28,3.37,Completed,80
+O15,Open Parking,Car,2026-09-21,19:29,23:30,4.02,Completed,100
+O08,Open Parking,Bike,2026-09-21,19:31,23:30,3.98,Completed,40
+B03,Basement,Car,2026-09-21,19:33,20:17,0.73,Completed,20
+G07,Ground Floor,Auto,2026-09-21,19:34,20:04,0.5,Completed,15
+G01,Ground Floor,Car,2026-09-21,19:40,22:36,2.93,Completed,60
+G14,Ground Floor,Car,2026-09-21,19:41,23:30,3.82,Completed,80
+G15,Ground Floor,Car,2026-09-21,19:54,22:03,2.15,Completed,60
+G04,Ground Floor,Car,2026-09-21,19:57,23:30,3.55,Completed,80
+G11,Ground Floor,SUV,2026-09-21,20:32,22:44,2.2,Completed,90
+B13,Basement,Car,2026-09-21,20:32,23:30,2.97,Completed,60
+F12,First Floor,Car,2026-09-21,20:59,23:17,2.3,Completed,60
+F13,First Floor,SUV,2026-09-22,08:09,10:32,2.38,Completed,90
+G01,Ground Floor,Car,2026-09-22,08:11,10:08,1.95,Completed,40
+O08,Open Parking,SUV,2026-09-22,08:15,09:25,1.17,Completed,60
+F02,First Floor,Car,2026-09-22,08:37,12:41,4.07,Completed,100
+F12,First Floor,Bike,2026-09-22,08:43,12:02,3.32,Completed,40
+O06,Open Parking,Auto,2026-09-22,08:50,10:03,1.22,Completed,30
+G02,Ground Floor,Bike,2026-09-22,09:12,16:06,6.9,Completed,70
+B06,Basement,Bike,2026-09-22,09:14,11:21,2.12,Completed,30
+B04,Basement,Car,2026-09-22,09:17,11:30,2.22,Completed,60
+F09,First Floor,Car,2026-09-22,09:35,12:51,3.27,Completed,80
+F04,First Floor,Car,2026-09-22,09:41,19:00,9.32,Completed,200
+G11,Ground Floor,SUV,2026-09-22,09:43,12:26,2.72,Completed,90
+G12,Ground Floor,Car,2026-09-22,09:44,15:06,5.37,Completed,120
+G04,Ground Floor,Car,2026-09-22,10:10,14:09,3.98,Completed,80
+F11,First Floor,SUV,2026-09-22,10:32,20:32,10.0,Completed,300
+F01,First Floor,Bike,2026-09-22,10:53,16:43,5.83,Completed,60
+O01,Open Parking,Auto,2026-09-22,11:23,12:48,1.42,Completed,30
+G15,Ground Floor,Car,2026-09-22,11:32,14:59,3.45,Completed,80
+F15,First Floor,Car,2026-09-22,11:52,13:15,1.38,Completed,40
+F14,First Floor,Bike,2026-09-22,12:01,17:31,5.5,Completed,60
+B06,Basement,Car,2026-09-22,12:06,15:05,2.98,Completed,60
+F05,First Floor,Auto,2026-09-22,12:29,13:37,1.13,Completed,30
+B13,Basement,Car,2026-09-22,12:34,17:20,4.77,Completed,100
+G09,Ground Floor,SUV,2026-09-22,12:39,18:16,5.62,Completed,180
+G08,Ground Floor,Car,2026-09-22,12:41,16:05,3.4,Completed,80
+G06,Ground Floor,Car,2026-09-22,13:27,17:57,4.5,Completed,100
+O02,Open Parking,Car,2026-09-22,13:27,14:58,1.52,Completed,40
+G14,Ground Floor,Car,2026-09-22,13:30,16:46,3.27,Completed,80
+G05,Ground Floor,Bike,2026-09-22,13:57,16:10,2.22,Completed,30
+G10,Ground Floor,Car,2026-09-22,14:03,16:01,1.97,Completed,40
+F09,First Floor,Bike,2026-09-22,14:23,17:13,2.83,Completed,30
+O08,Open Parking,Bike,2026-09-22,15:50,21:15,5.42,Completed,60
+B10,Basement,Car,2026-09-22,15:55,18:04,2.15,Completed,60
+F03,First Floor,Bike,2026-09-22,15:55,19:51,3.93,Completed,40
+G15,Ground Floor,Bike,2026-09-22,16:05,19:13,3.13,Completed,40
+G10,Ground Floor,Car,2026-09-22,17:02,20:34,3.53,Completed,80
+G03,Ground Floor,Car,2026-09-22,17:03,23:30,6.45,Completed,140
+O13,Open Parking,SUV,2026-09-22,17:07,23:30,6.38,Completed,210
+G13,Ground Floor,Car,2026-09-22,17:09,19:04,1.92,Completed,40
+O06,Open Parking,Auto,2026-09-22,17:12,18:34,1.37,Completed,30
+B06,Basement,Car,2026-09-22,17:17,23:24,6.12,Completed,140
+O01,Open Parking,Auto,2026-09-22,17:19,17:49,0.5,Completed,15
+G08,Ground Floor,Car,2026-09-22,17:26,18:48,1.37,Completed,40
+G11,Ground Floor,Bike,2026-09-22,17:28,22:20,4.87,Completed,50
+B01,Basement,Auto,2026-09-22,17:31,18:33,1.03,Completed,30
+G01,Ground Floor,Bike,2026-09-22,17:31,18:45,1.23,Completed,20
+B03,Basement,SUV,2026-09-22,17:39,22:05,4.43,Completed,150
+G02,Ground Floor,Bike,2026-09-22,17:58,18:44,0.77,Completed,10
+G07,Ground Floor,Car,2026-09-22,18:07,19:17,1.17,Completed,40
+F02,First Floor,Car,2026-09-22,18:08,20:25,2.28,Completed,60
+G12,Ground Floor,Car,2026-09-22,18:08,21:13,3.08,Completed,80
+B14,Basement,SUV,2026-09-22,18:09,21:46,3.62,Completed,120
+G06,Ground Floor,SUV,2026-09-22,18:11,20:12,2.02,Completed,90
+G14,Ground Floor,SUV,2026-09-22,18:16,20:46,2.5,Completed,90
+F09,First Floor,Car,2026-09-22,18:20,22:15,3.92,Completed,80
+O01,Open Parking,Bike,2026-09-22,18:22,19:32,1.17,Completed,20
+O09,Open Parking,Car,2026-09-22,18:44,22:39,3.92,Completed,80
+B08,Basement,SUV,2026-09-22,18:49,22:34,3.75,Completed,120
+F08,First Floor,Car,2026-09-22,18:51,21:06,2.25,Completed,60
+B12,Basement,Bike,2026-09-22,18:55,23:30,4.58,Completed,50
+B07,Basement,Car,2026-09-22,18:55,20:51,1.93,Completed,40
+G08,Ground Floor,Car,2026-09-22,19:01,21:04,2.05,Completed,60
+F07,First Floor,Bike,2026-09-22,19:05,22:12,3.12,Completed,40
+G01,Ground Floor,SUV,2026-09-22,19:09,22:05,2.93,Completed,90
+B04,Basement,Bike,2026-09-22,19:13,23:30,4.28,Completed,50
+F14,First Floor,SUV,2026-09-22,19:13,21:19,2.1,Completed,90
+G13,Ground Floor,Bike,2026-09-22,19:27,22:43,3.27,Completed,40
+G15,Ground Floor,Car,2026-09-22,19:31,23:30,3.98,Completed,80
+G04,Ground Floor,Bike,2026-09-22,19:35,22:19,2.73,Completed,30
+G09,Ground Floor,SUV,2026-09-22,19:44,22:04,2.33,Completed,90
+F03,First Floor,Bike,2026-09-23,07:02,08:30,1.47,Completed,20
+G02,Ground Floor,Car,2026-09-23,07:20,09:44,2.4,Completed,60
+F11,First Floor,SUV,2026-09-23,07:29,11:03,3.57,Completed,120
+B12,Basement,Auto,2026-09-23,08:19,08:57,0.63,Completed,15
+O12,Open Parking,Auto,2026-09-23,08:34,10:11,1.62,Completed,30
+G06,Ground Floor,Bike,2026-09-23,08:41,17:21,8.67,Completed,90
+B12,Basement,Car,2026-09-23,09:19,17:59,8.67,Completed,180
+G15,Ground Floor,Bike,2026-09-23,09:23,13:50,4.45,Completed,50
+G03,Ground Floor,Car,2026-09-23,09:27,11:52,2.42,Completed,60
+G13,Ground Floor,Car,2026-09-23,09:29,13:36,4.12,Completed,100
+O05,Open Parking,Auto,2026-09-23,09:35,10:29,0.9,Completed,15
+B05,Basement,Car,2026-09-23,09:43,10:48,1.08,Completed,40
+O01,Open Parking,Bike,2026-09-23,09:58,15:21,5.38,Completed,60
+B01,Basement,Bike,2026-09-23,10:07,19:17,9.17,Completed,100
+G01,Ground Floor,Bike,2026-09-23,10:13,20:13,10.0,Completed,100
+G09,Ground Floor,SUV,2026-09-23,10:16,13:58,3.7,Completed,120
+F13,First Floor,Bike,2026-09-23,10:17,17:30,7.22,Completed,80
+F02,First Floor,SUV,2026-09-23,10:33,15:35,5.03,Completed,180
+O02,Open Parking,Bike,2026-09-23,10:34,11:46,1.2,Completed,20
+G12,Ground Floor,Car,2026-09-23,10:35,12:23,1.8,Completed,40
+O12,Open Parking,Auto,2026-09-23,10:40,11:35,0.92,Completed,15
+G04,Ground Floor,Bike,2026-09-23,10:48,12:26,1.63,Completed,20
+B07,Basement,SUV,2026-09-23,11:13,13:31,2.3,Completed,90
+B13,Basement,SUV,2026-09-23,11:14,18:00,6.77,Completed,210
+O05,Open Parking,Bike,2026-09-23,11:44,13:25,1.68,Completed,20
+O03,Open Parking,SUV,2026-09-23,12:25,17:08,4.72,Completed,150
+G11,Ground Floor,Car,2026-09-23,12:37,20:38,8.02,Completed,180
+O09,Open Parking,SUV,2026-09-23,12:43,14:41,1.97,Completed,60
+G12,Ground Floor,Car,2026-09-23,12:47,16:30,3.72,Completed,80
+F09,First Floor,SUV,2026-09-23,12:50,22:08,9.3,Completed,300
+G04,Ground Floor,Car,2026-09-23,12:50,16:45,3.92,Completed,80
+G03,Ground Floor,Car,2026-09-23,12:59,18:47,5.8,Completed,120
+F04,First Floor,Bike,2026-09-23,14:18,23:30,9.2,Completed,100
+G07,Ground Floor,SUV,2026-09-23,14:43,15:25,0.7,Completed,30
+B09,Basement,Bike,2026-09-23,14:55,17:24,2.48,Completed,30
+B07,Basement,Bike,2026-09-23,14:58,21:26,6.47,Completed,70
+G02,Ground Floor,Bike,2026-09-23,14:58,18:35,3.62,Completed,40
+G08,Ground Floor,Car,2026-09-23,15:16,18:29,3.22,Completed,80
+G14,Ground Floor,Car,2026-09-23,15:35,16:51,1.27,Completed,40
+F03,First Floor,Auto,2026-09-23,15:44,16:27,0.72,Completed,15
+O15,Open Parking,Bike,2026-09-23,15:48,22:29,6.68,Completed,70
+F01,First Floor,Car,2026-09-23,16:02,20:59,4.95,Completed,100
+G13,Ground Floor,Car,2026-09-23,16:05,20:53,4.8,Completed,100
+O07,Open Parking,Bike,2026-09-23,16:31,19:24,2.88,Completed,30
+O01,Open Parking,Bike,2026-09-23,16:33,23:30,6.95,Completed,70
+B11,Basement,Auto,2026-09-23,16:52,18:01,1.15,Completed,30
+G09,Ground Floor,Car,2026-09-23,17:02,23:30,6.47,Completed,140
+B15,Basement,Bike,2026-09-23,17:03,19:15,2.2,Completed,30
+B03,Basement,Auto,2026-09-23,17:08,17:50,0.7,Completed,15
+F08,First Floor,Bike,2026-09-23,17:18,19:50,2.53,Completed,30
+O04,Open Parking,Bike,2026-09-23,17:21,19:10,1.82,Completed,20
+F03,First Floor,Car,2026-09-23,17:22,23:19,5.95,Completed,120
+F05,First Floor,SUV,2026-09-23,17:23,20:27,3.07,Completed,120
+O14,Open Parking,Bike,2026-09-23,17:25,23:30,6.08,Completed,70
+B10,Basement,Car,2026-09-23,18:04,23:30,5.43,Completed,120
+F13,First Floor,Car,2026-09-23,18:05,22:47,4.7,Completed,100
+F14,First Floor,Car,2026-09-23,18:06,19:08,1.03,Completed,40
+G14,Ground Floor,Auto,2026-09-23,18:33,19:08,0.58,Completed,15
+F06,First Floor,Bike,2026-09-23,18:43,23:30,4.78,Completed,50
+F12,First Floor,Car,2026-09-23,18:51,23:30,4.65,Completed,100
+F10,First Floor,Auto,2026-09-23,19:03,20:04,1.02,Completed,30
+B11,Basement,Car,2026-09-23,19:03,22:10,3.12,Completed,80
+F11,First Floor,Bike,2026-09-23,19:10,22:35,3.42,Completed,40
+F07,First Floor,Car,2026-09-23,19:12,20:42,1.5,Completed,40
+G08,Ground Floor,Car,2026-09-23,19:16,23:11,3.92,Completed,80
+F14,First Floor,Car,2026-09-23,19:18,23:30,4.2,Completed,100
+G04,Ground Floor,Car,2026-09-23,19:31,20:32,1.02,Completed,40
+G02,Ground Floor,Auto,2026-09-23,19:41,20:31,0.83,Completed,15
+F15,First Floor,Car,2026-09-23,19:45,22:40,2.92,Completed,60
+G14,Ground Floor,Bike,2026-09-23,19:50,23:04,3.23,Completed,40
+B01,Basement,Bike,2026-09-23,20:23,23:30,3.12,Completed,40
+O11,Open Parking,Bike,2026-09-23,20:54,23:30,2.6,Completed,30
+O01,Open Parking,Car,2026-09-24,08:13,09:16,1.05,Completed,40
+G15,Ground Floor,Bike,2026-09-24,08:18,13:40,5.37,Completed,60
+O13,Open Parking,Auto,2026-09-24,08:18,09:11,0.88,Completed,15
+B14,Basement,SUV,2026-09-24,08:23,09:56,1.55,Completed,60
+B09,Basement,SUV,2026-09-24,08:27,13:24,4.95,Completed,150
+B02,Basement,SUV,2026-09-24,08:33,14:33,6.0,Completed,180
+B13,Basement,Car,2026-09-24,08:40,09:58,1.3,Completed,40
+F06,First Floor,Car,2026-09-24,08:45,14:42,5.95,Completed,120
+O06,Open Parking,Bike,2026-09-24,08:50,11:52,3.03,Completed,40
+O08,Open Parking,Car,2026-09-24,09:11,11:14,2.05,Completed,60
+O05,Open Parking,Auto,2026-09-24,09:18,10:52,1.57,Completed,30
+G12,Ground Floor,SUV,2026-09-24,09:24,19:24,10.0,Completed,300
+G14,Ground Floor,Bike,2026-09-24,09:27,11:03,1.6,Completed,20
+G11,Ground Floor,Car,2026-09-24,09:31,10:34,1.05,Completed,40
+B10,Basement,SUV,2026-09-24,09:34,12:30,2.93,Completed,90
+F08,First Floor,SUV,2026-09-24,09:39,11:17,1.63,Completed,60
+G02,Ground Floor,SUV,2026-09-24,09:47,13:21,3.57,Completed,120
+F09,First Floor,Car,2026-09-24,09:49,13:04,3.25,Completed,80
+O04,Open Parking,Auto,2026-09-24,09:53,11:15,1.37,Completed,30
+G06,Ground Floor,Car,2026-09-24,09:56,17:03,7.12,Completed,160
+B07,Basement,Auto,2026-09-24,09:56,10:29,0.55,Completed,15
+F15,First Floor,Car,2026-09-24,10:04,10:58,0.9,Completed,20
+F03,First Floor,Car,2026-09-24,10:15,20:15,10.0,Completed,200
+B15,Basement,Car,2026-09-24,10:27,16:59,6.53,Completed,140
+F11,First Floor,Car,2026-09-24,10:40,13:54,3.23,Completed,80
+F02,First Floor,Car,2026-09-24,10:43,20:43,10.0,Completed,200
+F12,First Floor,Car,2026-09-24,10:54,14:10,3.27,Completed,80
+F07,First Floor,Bike,2026-09-24,11:02,16:37,5.58,Completed,60
+O15,Open Parking,Auto,2026-09-24,11:07,13:11,2.07,Completed,45
+B05,Basement,Car,2026-09-24,11:09,15:13,4.07,Completed,100
+G03,Ground Floor,SUV,2026-09-24,11:17,12:55,1.63,Completed,60
+F01,First Floor,Car,2026-09-24,11:33,12:46,1.22,Completed,40
+O03,Open Parking,Bike,2026-09-24,11:47,15:54,4.12,Completed,50
+F04,First Floor,Bike,2026-09-24,11:54,14:18,2.4,Completed,30
+F05,First Floor,Car,2026-09-24,11:59,13:51,1.87,Completed,40
+G14,Ground Floor,Auto,2026-09-24,12:01,13:25,1.4,Completed,30
+G09,Ground Floor,SUV,2026-09-24,12:02,14:01,1.98,Completed,60
+B08,Basement,Auto,2026-09-24,12:48,13:45,0.95,Completed,15
+F15,First Floor,Car,2026-09-24,12:57,14:34,1.62,Completed,40
+O02,Open Parking,Car,2026-09-24,13:08,15:42,2.57,Completed,60
+G03,Ground Floor,SUV,2026-09-24,13:23,15:46,2.38,Completed,90
+B01,Basement,Car,2026-09-24,13:37,17:34,3.95,Completed,80
+F01,First Floor,Car,2026-09-24,13:38,22:56,9.3,Completed,200
+O11,Open Parking,Auto,2026-09-24,13:50,15:58,2.13,Completed,45
+O08,Open Parking,Bike,2026-09-24,13:50,18:26,4.6,Completed,50
+B09,Basement,Car,2026-09-24,14:28,15:33,1.08,Completed,40
+O05,Open Parking,Bike,2026-09-24,14:31,22:13,7.7,Completed,80
+G04,Ground Floor,Auto,2026-09-24,14:46,16:20,1.57,Completed,30
+F11,First Floor,SUV,2026-09-24,15:03,23:30,8.45,Completed,270
+G11,Ground Floor,Auto,2026-09-24,15:19,16:37,1.3,Completed,30
+O06,Open Parking,Bike,2026-09-24,16:12,18:16,2.07,Completed,30
+F04,First Floor,Car,2026-09-24,16:42,23:30,6.8,Completed,140
+G07,Ground Floor,SUV,2026-09-24,16:47,20:54,4.12,Completed,150
+F14,First Floor,Bike,2026-09-24,17:13,23:30,6.28,Completed,70
+O07,Open Parking,Bike,2026-09-24,17:32,18:27,0.92,Completed,10
+F09,First Floor,Bike,2026-09-24,17:46,19:46,2.0,Completed,20
+G01,Ground Floor,SUV,2026-09-24,17:55,23:30,5.58,Completed,180
+B06,Basement,Car,2026-09-24,17:57,19:24,1.45,Completed,40
+G10,Ground Floor,Car,2026-09-24,18:02,19:56,1.9,Completed,40
+G08,Ground Floor,Car,2026-09-24,18:13,23:30,5.28,Completed,120
+B04,Basement,Car,2026-09-24,18:17,21:36,3.32,Completed,80
+B09,Basement,Car,2026-09-24,18:23,22:25,4.03,Completed,100
+F06,First Floor,Car,2026-09-24,18:34,20:54,2.33,Completed,60
+O07,Open Parking,Auto,2026-09-24,18:36,19:44,1.13,Completed,30
+G13,Ground Floor,SUV,2026-09-24,18:48,23:30,4.7,Completed,150
+G15,Ground Floor,Car,2026-09-24,18:57,23:30,4.55,Completed,100
+G04,Ground Floor,Bike,2026-09-24,19:05,20:43,1.63,Completed,20
+F10,First Floor,SUV,2026-09-24,19:16,21:12,1.93,Completed,60
+B14,Basement,SUV,2026-09-24,19:31,20:58,1.45,Completed,60
+G11,Ground Floor,Bike,2026-09-24,19:36,23:30,3.9,Completed,40
+O13,Open Parking,Bike,2026-09-24,19:42,23:30,3.8,Completed,40
+G10,Ground Floor,Car,2026-09-24,20:07,21:39,1.53,Completed,40
+F07,First Floor,SUV,2026-09-24,20:09,23:30,3.35,Completed,120
+F03,First Floor,SUV,2026-09-24,20:19,22:36,2.28,Completed,90
+B09,Basement,SUV,2026-09-25,07:32,08:54,1.37,Completed,60
+G01,Ground Floor,SUV,2026-09-25,08:05,18:05,10.0,Completed,300
+G08,Ground Floor,Car,2026-09-25,08:11,10:28,2.28,Completed,60
+G07,Ground Floor,Car,2026-09-25,08:53,13:33,4.67,Completed,100
+G11,Ground Floor,Car,2026-09-25,08:56,14:29,5.55,Completed,120
+O13,Open Parking,Auto,2026-09-25,08:58,10:06,1.13,Completed,30
+F11,First Floor,Car,2026-09-25,09:03,12:07,3.07,Completed,80
+G12,Ground Floor,Car,2026-09-25,09:13,15:31,6.3,Completed,140
+B06,Basement,Bike,2026-09-25,09:18,12:20,3.03,Completed,40
+B14,Basement,Car,2026-09-25,09:22,12:32,3.17,Completed,80
+O11,Open Parking,Auto,2026-09-25,09:26,10:12,0.77,Completed,15
+G15,Ground Floor,Bike,2026-09-25,09:34,11:37,2.05,Completed,30
+F14,First Floor,SUV,2026-09-25,09:40,11:12,1.53,Completed,60
+F15,First Floor,SUV,2026-09-25,09:42,12:23,2.68,Completed,90
+G14,Ground Floor,Car,2026-09-25,09:52,13:55,4.05,Completed,100
+F13,First Floor,Bike,2026-09-25,10:05,20:05,10.0,Completed,100
+F02,First Floor,Auto,2026-09-25,10:20,11:31,1.18,Completed,30
+G05,Ground Floor,Bike,2026-09-25,10:27,11:41,1.23,Completed,20
+G03,Ground Floor,Car,2026-09-25,10:28,13:08,2.67,Completed,60
+F07,First Floor,Car,2026-09-25,10:28,11:27,0.98,Completed,20
+O13,Open Parking,Bike,2026-09-25,10:42,13:55,3.22,Completed,40
+G08,Ground Floor,Bike,2026-09-25,10:52,12:23,1.52,Completed,20
+G13,Ground Floor,SUV,2026-09-25,11:00,16:04,5.07,Completed,180
+G09,Ground Floor,Bike,2026-09-25,11:08,15:10,4.03,Completed,50
+G04,Ground Floor,Car,2026-09-25,11:17,21:17,10.0,Completed,200
+G10,Ground Floor,Bike,2026-09-25,11:42,14:52,3.17,Completed,40
+B07,Basement,SUV,2026-09-25,11:59,13:24,1.42,Completed,60
+B02,Basement,Auto,2026-09-25,12:07,13:00,0.88,Completed,15
+G06,Ground Floor,SUV,2026-09-25,12:10,13:24,1.23,Completed,60
+G05,Ground Floor,Auto,2026-09-25,12:11,12:53,0.7,Completed,15
+G15,Ground Floor,Auto,2026-09-25,12:11,12:33,0.37,Completed,15
+O12,Open Parking,Auto,2026-09-25,12:18,14:21,2.05,Completed,45
+B10,Basement,Car,2026-09-25,12:20,17:10,4.83,Completed,100
+G08,Ground Floor,Car,2026-09-25,12:47,14:05,1.3,Completed,40
+G02,Ground Floor,Auto,2026-09-25,12:52,13:25,0.55,Completed,15
+F07,First Floor,Car,2026-09-25,13:02,18:40,5.63,Completed,120
+O05,Open Parking,Bike,2026-09-25,13:07,19:45,6.63,Completed,70
+G15,Ground Floor,Car,2026-09-25,13:24,20:30,7.1,Completed,160
+G05,Ground Floor,Bike,2026-09-25,13:29,16:55,3.43,Completed,40
+G02,Ground Floor,Auto,2026-09-25,13:31,16:05,2.57,Completed,45
+F11,First Floor,Car,2026-09-25,13:34,17:09,3.58,Completed,80
+B13,Basement,SUV,2026-09-25,13:35,21:09,7.57,Completed,240
+F15,First Floor,Auto,2026-09-25,13:35,15:02,1.45,Completed,30
+G03,Ground Floor,Car,2026-09-25,13:44,17:41,3.95,Completed,80
+G07,Ground Floor,Car,2026-09-25,13:48,16:20,2.53,Completed,60
+G14,Ground Floor,Car,2026-09-25,14:06,16:20,2.23,Completed,60
+B08,Basement,Bike,2026-09-25,14:24,17:13,2.82,Completed,30
+G08,Ground Floor,Car,2026-09-25,14:26,15:15,0.82,Completed,20
+F03,First Floor,Auto,2026-09-25,14:29,15:33,1.07,Completed,30
+G06,Ground Floor,SUV,2026-09-25,14:32,18:10,3.63,Completed,120
+G11,Ground Floor,Bike,2026-09-25,14:39,20:32,5.88,Completed,60
+F06,First Floor,Car,2026-09-25,14:42,16:04,1.37,Completed,40
+F10,First Floor,Bike,2026-09-25,14:44,18:12,3.47,Completed,40
+F12,First Floor,Car,2026-09-25,14:46,23:30,8.73,Completed,180
+B12,Basement,SUV,2026-09-25,15:42,19:47,4.08,Completed,150
+F03,First Floor,Car,2026-09-25,16:06,18:04,1.97,Completed,40
+G02,Ground Floor,Bike,2026-09-25,16:30,18:48,2.3,Completed,30
+F05,First Floor,Bike,2026-09-25,16:43,19:00,2.28,Completed,30
+G12,Ground Floor,Car,2026-09-25,16:51,19:25,2.57,Completed,60
+G05,Ground Floor,SUV,2026-09-25,17:05,18:58,1.88,Completed,60
+G08,Ground Floor,Car,2026-09-25,17:18,18:40,1.37,Completed,40
+G13,Ground Floor,SUV,2026-09-25,17:23,19:54,2.52,Completed,90
+B07,Basement,SUV,2026-09-25,17:25,21:17,3.87,Completed,120
+O02,Open Parking,SUV,2026-09-25,17:30,20:41,3.18,Completed,120
+G10,Ground Floor,Car,2026-09-25,17:36,19:55,2.32,Completed,60
+G14,Ground Floor,SUV,2026-09-25,17:43,19:06,1.38,Completed,60
+F15,First Floor,Car,2026-09-25,17:45,19:24,1.65,Completed,40
+G03,Ground Floor,Car,2026-09-25,17:57,19:49,1.87,Completed,40
+G07,Ground Floor,Bike,2026-09-25,18:04,22:42,4.63,Completed,50
+B15,Basement,Car,2026-09-25,18:07,23:05,4.97,Completed,100
+G09,Ground Floor,Auto,2026-09-25,18:13,19:48,1.58,Completed,30
+G01,Ground Floor,Bike,2026-09-25,18:16,21:42,3.43,Completed,40
+O11,Open Parking,Bike,2026-09-25,18:22,21:33,3.18,Completed,40
+G06,Ground Floor,Car,2026-09-25,18:24,23:30,5.1,Completed,120
+O15,Open Parking,Car,2026-09-25,18:48,21:33,2.75,Completed,60
+G08,Ground Floor,SUV,2026-09-25,18:49,20:22,1.55,Completed,60
+F03,First Floor,Auto,2026-09-25,18:52,19:44,0.87,Completed,15
+G05,Ground Floor,Car,2026-09-25,19:07,23:29,4.37,Completed,100
+G14,Ground Floor,Car,2026-09-25,19:24,23:30,4.1,Completed,100
+B01,Basement,Car,2026-09-25,19:31,23:30,3.98,Completed,80
+G12,Ground Floor,SUV,2026-09-25,19:38,20:51,1.22,Completed,60
+G02,Ground Floor,Bike,2026-09-25,19:39,23:30,3.85,Completed,40
+B06,Basement,Car,2026-09-25,19:52,22:05,2.22,Completed,60
+B05,Basement,SUV,2026-09-25,20:36,23:30,2.9,Completed,90
+G13,Ground Floor,Auto,2026-09-26,07:03,07:22,0.32,Completed,15
+G12,Ground Floor,SUV,2026-09-26,07:03,08:30,1.45,Completed,60
+B13,Basement,Bike,2026-09-26,08:02,15:40,7.63,Completed,80
+G02,Ground Floor,Bike,2026-09-26,08:06,13:50,5.73,Completed,60
+F11,First Floor,Car,2026-09-26,08:20,10:19,1.98,Completed,40
+G13,Ground Floor,Auto,2026-09-26,08:26,09:39,1.22,Completed,30
+B03,Basement,Car,2026-09-26,08:29,15:56,7.45,Completed,160
+B10,Basement,Bike,2026-09-26,08:30,10:51,2.35,Completed,30
+G11,Ground Floor,Auto,2026-09-26,08:31,08:54,0.38,Completed,15
+O15,Open Parking,Bike,2026-09-26,08:35,11:35,3.0,Completed,30
+F12,First Floor,SUV,2026-09-26,08:36,12:23,3.78,Completed,120
+F05,First Floor,Bike,2026-09-26,08:46,11:29,2.72,Completed,30
+F06,First Floor,Car,2026-09-26,08:51,14:03,5.2,Completed,120
+B02,Basement,SUV,2026-09-26,09:00,11:43,2.72,Completed,90
+F07,First Floor,Car,2026-09-26,09:15,12:41,3.43,Completed,80
+F13,First Floor,Bike,2026-09-26,09:18,11:41,2.38,Completed,30
+F08,First Floor,Car,2026-09-26,09:19,10:34,1.25,Completed,40
+G07,Ground Floor,SUV,2026-09-26,09:20,18:00,8.67,Completed,270
+B05,Basement,SUV,2026-09-26,09:25,11:21,1.93,Completed,60
+G09,Ground Floor,Car,2026-09-26,09:32,12:20,2.8,Completed,60
+G15,Ground Floor,Car,2026-09-26,09:33,11:20,1.78,Completed,40
+G01,Ground Floor,Bike,2026-09-26,09:40,11:53,2.22,Completed,30
+G05,Ground Floor,Car,2026-09-26,09:50,11:33,1.72,Completed,40
+G10,Ground Floor,Auto,2026-09-26,09:51,11:12,1.35,Completed,30
+G12,Ground Floor,Car,2026-09-26,09:59,11:00,1.02,Completed,40
+G13,Ground Floor,Car,2026-09-26,10:00,12:45,2.75,Completed,60
+B08,Basement,Car,2026-09-26,10:05,15:58,5.88,Completed,120
+B06,Basement,Car,2026-09-26,10:16,13:54,3.63,Completed,80
+G14,Ground Floor,SUV,2026-09-26,10:57,13:36,2.65,Completed,90
+G10,Ground Floor,Car,2026-09-26,11:18,14:27,3.15,Completed,80
+G12,Ground Floor,Bike,2026-09-26,11:29,15:52,4.38,Completed,50
+G04,Ground Floor,Car,2026-09-26,11:40,13:45,2.08,Completed,60
+F05,First Floor,Bike,2026-09-26,11:43,13:15,1.53,Completed,20
+G05,Ground Floor,Car,2026-09-26,11:43,17:07,5.4,Completed,120
+F02,First Floor,Car,2026-09-26,11:43,14:32,2.82,Completed,60
+F01,First Floor,Car,2026-09-26,12:07,18:58,6.85,Completed,140
+O04,Open Parking,Bike,2026-09-26,12:16,18:55,6.65,Completed,70
+G06,Ground Floor,Bike,2026-09-26,12:17,13:48,1.52,Completed,20
+F12,First Floor,Bike,2026-09-26,12:24,14:21,1.95,Completed,20
+G08,Ground Floor,Bike,2026-09-26,12:26,17:19,4.88,Completed,50
+B02,Basement,SUV,2026-09-26,12:27,15:21,2.9,Completed,90
+F08,First Floor,Car,2026-09-26,12:31,19:17,6.77,Completed,140
+F10,First Floor,Car,2026-09-26,12:34,14:31,1.95,Completed,40
+F03,First Floor,Car,2026-09-26,12:37,21:30,8.88,Completed,180
+O07,Open Parking,Bike,2026-09-26,12:47,17:07,4.33,Completed,50
+O09,Open Parking,Bike,2026-09-26,12:48,15:02,2.23,Completed,30
+B11,Basement,Car,2026-09-26,12:56,22:56,10.0,Completed,200
+F14,First Floor,Car,2026-09-26,13:07,15:40,2.55,Completed,60
+G15,Ground Floor,SUV,2026-09-26,13:07,18:25,5.3,Completed,180
+O11,Open Parking,Auto,2026-09-26,13:17,14:46,1.48,Completed,30
+G11,Ground Floor,Car,2026-09-26,13:25,15:22,1.95,Completed,40
+F04,First Floor,SUV,2026-09-26,13:32,18:52,5.33,Completed,180
+G02,Ground Floor,SUV,2026-09-26,14:41,15:27,0.77,Completed,30
+B06,Basement,SUV,2026-09-26,14:41,16:31,1.83,Completed,60
+G09,Ground Floor,Bike,2026-09-26,15:12,16:16,1.07,Completed,20
+O10,Open Parking,Auto,2026-09-26,15:17,17:40,2.38,Completed,45
+O14,Open Parking,SUV,2026-09-26,15:38,20:49,5.18,Completed,180
+O01,Open Parking,Bike,2026-09-26,15:39,18:26,2.78,Completed,30
+B13,Basement,Car,2026-09-26,15:54,23:30,7.6,Completed,160
+F07,First Floor,Car,2026-09-26,16:05,18:35,2.5,Completed,60
+B05,Basement,SUV,2026-09-26,16:05,19:36,3.52,Completed,120
+F05,First Floor,Car,2026-09-26,16:15,22:26,6.18,Completed,140
+B10,Basement,Car,2026-09-26,16:25,20:23,3.97,Completed,80
+B08,Basement,Car,2026-09-26,16:31,23:30,6.98,Completed,140
+O03,Open Parking,Auto,2026-09-26,16:45,18:09,1.4,Completed,30
+G13,Ground Floor,Car,2026-09-26,16:45,18:23,1.63,Completed,40
+O11,Open Parking,Auto,2026-09-26,16:53,18:33,1.67,Completed,30
+G12,Ground Floor,Bike,2026-09-26,17:04,19:34,2.5,Completed,30
+G06,Ground Floor,Car,2026-09-26,17:05,19:34,2.48,Completed,60
+B03,Basement,Car,2026-09-26,17:24,21:12,3.8,Completed,80
+G02,Ground Floor,Bike,2026-09-26,17:32,23:13,5.68,Completed,60
+B14,Basement,Bike,2026-09-26,17:34,19:22,1.8,Completed,20
+G09,Ground Floor,Car,2026-09-26,17:36,20:54,3.3,Completed,80
+F13,First Floor,Car,2026-09-26,17:40,19:26,1.77,Completed,40
+G11,Ground Floor,SUV,2026-09-26,17:44,19:17,1.55,Completed,60
+G03,Ground Floor,Car,2026-09-26,17:52,19:30,1.63,Completed,40
+F09,First Floor,Car,2026-09-26,17:56,20:04,2.13,Completed,60
+F14,First Floor,Car,2026-09-26,17:57,21:41,3.73,Completed,80
+F15,First Floor,Auto,2026-09-26,18:00,20:38,2.63,Completed,45
+B01,Basement,Car,2026-09-26,18:03,19:39,1.6,Completed,40
+O13,Open Parking,Bike,2026-09-26,18:06,20:55,2.82,Completed,30
+O06,Open Parking,Bike,2026-09-26,18:08,20:09,2.02,Completed,30
+G08,Ground Floor,Bike,2026-09-26,18:19,21:08,2.82,Completed,30
+O01,Open Parking,Bike,2026-09-26,18:29,23:04,4.58,Completed,50
+B15,Basement,Auto,2026-09-26,18:30,19:05,0.58,Completed,15
+G07,Ground Floor,Car,2026-09-26,18:32,22:56,4.4,Completed,100
+O03,Open Parking,SUV,2026-09-26,18:33,19:57,1.4,Completed,60
+O15,Open Parking,Car,2026-09-26,18:36,20:24,1.8,Completed,40
+F10,First Floor,Car,2026-09-26,19:05,20:49,1.73,Completed,40
+G05,Ground Floor,Bike,2026-09-26,19:17,22:17,3.0,Completed,30
+G04,Ground Floor,Bike,2026-09-26,19:17,20:34,1.28,Completed,20
+G14,Ground Floor,Car,2026-09-26,19:33,20:55,1.37,Completed,40
+B12,Basement,Car,2026-09-26,19:34,21:07,1.55,Completed,40
+O04,Open Parking,Car,2026-09-26,19:35,22:45,3.17,Completed,80
+G10,Ground Floor,SUV,2026-09-26,19:36,22:44,3.13,Completed,120
+G12,Ground Floor,SUV,2026-09-26,20:12,22:10,1.97,Completed,60
+O08,Open Parking,Bike,2026-09-26,20:24,22:55,2.52,Completed,30
+G15,Ground Floor,Car,2026-09-26,20:34,23:30,2.93,Completed,60
+F04,First Floor,Car,2026-09-27,07:19,10:06,2.78,Completed,60
+G09,Ground Floor,Car,2026-09-27,07:40,16:06,8.43,Completed,180
+F13,First Floor,Car,2026-09-27,08:06,10:26,2.33,Completed,60
+G08,Ground Floor,SUV,2026-09-27,08:16,09:45,1.48,Completed,60
+B13,Basement,Bike,2026-09-27,08:22,12:47,4.42,Completed,50
+F09,First Floor,Car,2026-09-27,08:37,11:07,2.5,Completed,60
+G11,Ground Floor,Car,2026-09-27,08:38,11:10,2.53,Completed,60
+O02,Open Parking,Auto,2026-09-27,08:40,09:57,1.28,Completed,30
+G05,Ground Floor,Car,2026-09-27,08:49,10:21,1.53,Completed,40
+O07,Open Parking,Bike,2026-09-27,08:58,11:36,2.63,Completed,30
+G07,Ground Floor,Car,2026-09-27,09:20,11:55,2.58,Completed,60
+F12,First Floor,Car,2026-09-27,09:23,10:41,1.3,Completed,40
+F14,First Floor,Car,2026-09-27,09:40,13:31,3.85,Completed,80
+O04,Open Parking,Auto,2026-09-27,09:43,10:50,1.12,Completed,30
+G12,Ground Floor,SUV,2026-09-27,09:45,11:15,1.5,Completed,60
+F03,First Floor,Car,2026-09-27,09:47,13:17,3.5,Completed,80
+F10,First Floor,Bike,2026-09-27,09:49,12:54,3.08,Completed,40
+B07,Basement,Car,2026-09-27,10:01,11:06,1.08,Completed,40
+G14,Ground Floor,SUV,2026-09-27,10:08,11:10,1.03,Completed,60
+B09,Basement,SUV,2026-09-27,10:13,14:16,4.05,Completed,150
+G01,Ground Floor,Car,2026-09-27,10:30,13:54,3.4,Completed,80
+G15,Ground Floor,Car,2026-09-27,10:41,12:42,2.02,Completed,60
+B06,Basement,Car,2026-09-27,10:48,15:22,4.57,Completed,100
+O01,Open Parking,Bike,2026-09-27,10:56,19:55,8.98,Completed,90
+O03,Open Parking,Bike,2026-09-27,10:58,17:36,6.63,Completed,70
+G04,Ground Floor,Car,2026-09-27,11:00,14:36,3.6,Completed,80
+B12,Basement,Car,2026-09-27,11:03,12:01,0.97,Completed,20
+G13,Ground Floor,Bike,2026-09-27,11:11,12:44,1.55,Completed,20
+B02,Basement,Car,2026-09-27,11:28,13:48,2.33,Completed,60
+F09,First Floor,Car,2026-09-27,11:40,13:10,1.5,Completed,40
+O05,Open Parking,Auto,2026-09-27,12:03,12:50,0.78,Completed,15
+O07,Open Parking,Bike,2026-09-27,12:09,15:43,3.57,Completed,40
+G02,Ground Floor,Car,2026-09-27,12:22,13:33,1.18,Completed,40
+O13,Open Parking,Car,2026-09-27,12:25,15:00,2.58,Completed,60
+G08,Ground Floor,Bike,2026-09-27,12:40,18:03,5.38,Completed,60
+F11,First Floor,Car,2026-09-27,12:42,15:51,3.15,Completed,80
+G10,Ground Floor,Car,2026-09-27,12:45,13:25,0.67,Completed,20
+O06,Open Parking,Bike,2026-09-27,12:45,14:54,2.15,Completed,30
+G11,Ground Floor,Car,2026-09-27,12:47,15:20,2.55,Completed,60
+O10,Open Parking,Bike,2026-09-27,12:51,16:02,3.18,Completed,40
+F06,First Floor,Bike,2026-09-27,12:56,,8.07,Occupied,90
+G07,Ground Floor,Car,2026-09-27,13:13,19:07,5.9,Completed,120
+B10,Basement,SUV,2026-09-27,13:19,15:46,2.45,Completed,90
+F09,First Floor,Bike,2026-09-27,13:23,18:39,5.27,Completed,60
+B08,Basement,SUV,2026-09-27,13:28,15:49,2.35,Completed,90
+F03,First Floor,Auto,2026-09-27,13:56,14:59,1.05,Completed,30
+F08,First Floor,SUV,2026-09-27,14:03,19:06,5.05,Completed,180
+G01,Ground Floor,Car,2026-09-27,14:05,19:16,5.18,Completed,120
+G03,Ground Floor,SUV,2026-09-27,14:06,15:05,0.98,Completed,30
+O12,Open Parking,Bike,2026-09-27,14:10,16:27,2.28,Completed,30
+G05,Ground Floor,Car,2026-09-27,14:18,18:51,4.55,Completed,100
+O05,Open Parking,Car,2026-09-27,14:24,15:41,1.28,Completed,40
+F14,First Floor,Car,2026-09-27,14:33,18:15,3.7,Completed,80
+G15,Ground Floor,Auto,2026-09-27,14:34,15:03,0.48,Completed,15
+B14,Basement,Car,2026-09-27,14:42,17:54,3.2,Completed,80
+O14,Open Parking,Bike,2026-09-27,14:57,17:31,2.57,Completed,30
+B13,Basement,SUV,2026-09-27,15:30,20:50,5.33,Completed,180
+O04,Open Parking,Auto,2026-09-27,15:33,17:11,1.63,Completed,30
+G02,Ground Floor,Car,2026-09-27,16:05,17:54,1.82,Completed,40
+G10,Ground Floor,SUV,2026-09-27,16:10,20:06,3.93,Completed,120
+G12,Ground Floor,Auto,2026-09-27,16:12,17:50,1.63,Completed,30
+G09,Ground Floor,Car,2026-09-27,16:22,17:18,0.93,Completed,20
+B07,Basement,Auto,2026-09-27,16:31,17:42,1.18,Completed,30
+B09,Basement,Car,2026-09-27,17:07,,3.88,Occupied,80
+B06,Basement,Car,2026-09-27,17:12,18:53,1.68,Completed,40
+G11,Ground Floor,Car,2026-09-27,17:18,,3.7,Occupied,80
+B10,Basement,Car,2026-09-27,17:24,,3.6,Occupied,80
+F07,First Floor,Car,2026-09-27,17:26,,3.57,Occupied,80
+F12,First Floor,Car,2026-09-27,17:28,19:07,1.65,Completed,40
+G06,Ground Floor,Car,2026-09-27,17:31,19:31,2.0,Completed,40
+B11,Basement,Bike,2026-09-27,17:39,18:40,1.02,Completed,20
+G13,Ground Floor,Auto,2026-09-27,17:40,18:08,0.47,Completed,15
+B05,Basement,Bike,2026-09-27,17:42,,3.3,Occupied,40
+F03,First Floor,Car,2026-09-27,17:44,20:56,3.2,Completed,80
+F13,First Floor,Car,2026-09-27,17:49,,3.18,Occupied,80
+G09,Ground Floor,Bike,2026-09-27,17:50,19:40,1.83,Completed,20
+G15,Ground Floor,SUV,2026-09-27,18:03,,2.95,Occupied,90
+G14,Ground Floor,Bike,2026-09-27,18:03,19:49,1.77,Completed,20
+F01,First Floor,Auto,2026-09-27,18:04,18:51,0.78,Completed,15
+B08,Basement,Bike,2026-09-27,18:07,,2.88,Occupied,30
+B01,Basement,SUV,2026-09-27,18:08,,2.87,Occupied,90
+O13,Open Parking,Bike,2026-09-27,18:10,,2.83,Occupied,30
+G04,Ground Floor,SUV,2026-09-27,18:21,,2.65,Occupied,90
+G02,Ground Floor,Car,2026-09-27,18:23,,2.62,Occupied,60
+O08,Open Parking,Auto,2026-09-27,18:24,18:42,0.3,Completed,15
+F02,First Floor,Car,2026-09-27,18:34,,2.43,Occupied,60
+G13,Ground Floor,Car,2026-09-27,18:34,20:06,1.53,Completed,40
+G08,Ground Floor,Bike,2026-09-27,18:39,,2.35,Occupied,30
+G03,Ground Floor,Car,2026-09-27,18:40,,2.33,Occupied,60
+G12,Ground Floor,Car,2026-09-27,18:46,20:51,2.08,Completed,60
+F04,First Floor,Auto,2026-09-27,18:50,,2.17,Occupied,45
+F05,First Floor,SUV,2026-09-27,18:51,,2.15,Occupied,90
+B12,Basement,Bike,2026-09-27,18:52,,2.13,Occupied,30
+G05,Ground Floor,Bike,2026-09-27,18:54,20:20,1.43,Completed,20
+F10,First Floor,SUV,2026-09-27,18:59,,2.02,Occupied,90
+B06,Basement,Bike,2026-09-27,19:09,,1.85,Occupied,20
+B02,Basement,Car,2026-09-27,19:11,,1.82,Occupied,40
+G01,Ground Floor,Bike,2026-09-27,19:18,,1.7,Occupied,20
+F11,First Floor,Car,2026-09-27,19:28,,1.53,Occupied,40
+F15,First Floor,Car,2026-09-27,19:32,,1.47,Occupied,40
+O08,Open Parking,Auto,2026-09-27,19:45,20:25,0.67,Completed,15
+F09,First Floor,Bike,2026-09-27,19:49,,1.18,Occupied,20
+O02,Open Parking,Bike,2026-09-27,19:53,,1.12,Occupied,20
+F12,First Floor,SUV,2026-09-27,19:54,,1.1,Occupied,60
+F01,First Floor,Car,2026-09-27,19:57,,1.05,Occupied,40
+G14,Ground Floor,Bike,2026-09-27,19:59,,1.02,Occupied,20
+B04,Basement,Auto,2026-09-27,20:27,,0.55,Occupied,15
+F08,First Floor,SUV,2026-09-27,20:40,,0.33,Occupied,30
